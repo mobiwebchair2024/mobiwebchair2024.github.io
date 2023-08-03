@@ -1,0 +1,11 @@
+/* TEAM */
+    Designer: Charles J. Carver
+    Contact: ccarver [dot] gr [at] dartmouth.edu
+    Site: https://cs.dartmouth.edu/ccarver/        
+    Location: Hanover, New Hampshire
+
+/* SITE */
+    Last update: 12/2020
+    Standards: HTML5, CSS3
+    Components: Modernizr, jQuery
+    

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on ACM MobiSys 2024</title>
+    <link>/</link>
+    <description>Recent content in Home on ACM MobiSys 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accepted Papers</title>
+      <link>/accepted-papers.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/accepted-papers.html</guid>
+      <description>Accepted Papers  span.button{ padding: 10px 16px; font-size: 18px; }   Proceedings on ACM Digital Lib    FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients Authors: Jaemin Shin (School of Computing, KAIST); Yuanchun Li and Yunxin Liu (Institute for AI Industry Research (AIR), Tsinghua University); Sung-Ju Lee (School of Electrical Engineering, KAIST)
+ Motion Inspires Notion: Self-supervised Visual-LiDAR Fusion for Environment Depth Estimation Authors: Danyang Li, Jingao Xu, Zheng Yang, Qian Zhang, and Qiang Ma (Tsinghua University); Li Zhang (HeFei University of Technology, China); Pengpeng Chen (China University of Mining and Technology)</description>
+    </item>
+    
+    <item>
+      <title>Call for Demos</title>
+      <link>/demos.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/demos.html</guid>
+      <description>Call for Demos MobiSys 2022 seeks proposals for live demos or videos of demos of mobile systems, applications, and services. Research prototypes as well as commercial products are welcome. However, MobiSys is not an appropriate forum for marketing or sales presentations. The presenter is expected to understand the system being demonstrated and explain the technical contributions of the system to the audience. Note that unlike posters, demos of previously published systems are welcome.</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>/cfp.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cfp.html</guid>
+      <description>Call for Papers ACM MobiSys 2022 seeks to present innovative and significant research on all aspects of mobile computing, applications, and services. The conference values technical contributions with working implementations and practical evaluations. We also welcome work that explores new and compelling mobile scenarios and applications as long as the work goes well beyond providing an initial vision.
+Topics of interest include, but are not limited to:
+ Experience with mobile applications, networks, and systems Applications of mobile sensing and crowdsourcing Tools for building and measuring mobile systems Innovative wearable systems and applications Software architectures for mobile devices and mobile computing Data management for mobile applications Infrastructure support for mobile computing System-level energy management for mobile devices Operating systems for mobile devices Support for mobile social networking and the mobile web Security and privacy in mobile systems Resource-efficient machine learning and AI for mobile devices Systems for location and context sensing and awareness Mobile computing support for pervasive computing Vehicular and mobile robotic systems Systems and networking support for virtual or augmented reality Applications of mobile systems in healthcare and accessibility Applications in sustainability and smart cities IoT systems and applications with their implications for mobile computing Novel mobile applications using machine learning Techniques and systems for novel human-mobile interactions and experiences Nano satellites and mobile computing in outer space Non-traditional topics that bring new perspectives to mobile computing  Papers whose contributions overlap with work currently under review elsewhere must not be submitted to ACM MobiSys.</description>
+    </item>
+    
+    <item>
+      <title>Call for Posters</title>
+      <link>/cfposters.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cfposters.html</guid>
+      <description>Call for Posters ACM MobiSys 2022 calls for posters on topics related to mobile systems, applications, and services. Posters should describe novel work not published before. The poster track is meant to introduce new or ongoing work and provide opportunities for authors to interact directly with conference attendees. Posters are especially suited for presenting controversial research directions that may generate discussion or promising ideas not yet validated through extensive evaluation. Researchers seeking feedback on their early ideas are welcome to submit posters.</description>
+    </item>
+    
+    <item>
+      <title>Call for Workshops</title>
+      <link>/cfw.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cfw.html</guid>
+      <description>ACM MobiSys 2022: Call for Workshops ACM MobiSys is a premier venue for researchers working in the area of mobile and wireless systems, middleware, services, and applications. We solicit workshop proposals for workshops to be held in conjunction with the conference in late June or in early July. Workshop papers will be included with the ACM MobiSys proceedings and published in the ACM Digital Library. The duration and format of the workshop are flexible to best adapt to the audience and workshop goal.</description>
+    </item>
+    
+    <item>
+      <title>Camera-Ready Instructions</title>
+      <link>/camready.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/camready.html</guid>
+      <description>Camera-Ready Instructions Camera-ready papers for the ACM MobiSys&amp;rsquo;22 proceedings are due May 26 . In essence, you need to do the following:
+ Work with the shepherd to address all the reviewers’ comments. The shepherd will be ultimately responsible for accepting or rejecting your submission. Adapt your stylesheet to the most recent ACM template, include bibliographic and copyright strip. Upload the camera-ready version, including source files of the paper text.  Complete rights management form  Before submitting camera-ready papers, you need to complete the rights management form.</description>
+    </item>
+    
+    <item>
+      <title>Demos</title>
+      <link>/accepted-demos.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/accepted-demos.html</guid>
+      <description>Accepted Demos  Demo: Protecting Electric Scooters from Thefts Using Batteries Authors: Samuel Wozinski, Liang He (University of Colorado Denver); Kang G. Shin (The University of Michigan at Ann Arbor)  Demo: Vision-Aided 28 GHz mmWave Transmission with Joint Tx-Rx Beam Tracking for 5G Communications Authors: Jihoon Bang, Seungwoo Baek, Hanvit Kim, Hyeonjin Chung, Jaehoon Choi, Sunwoo Kim (Hanyang University)  Demo: Fully Passive 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion Authors: Kun Qian, Xinyu Zhang (University of California San Diego)  Best Demo Runner-up Award  Demo: ClearBuds - Wireless Binaural Earbuds for Learning-based Speech Enhancement  Authors: Maruchi Kim, Ishan Chatterjee, Vivek Jayaram, Shyamnath Gollakota, Steve Seitz, Ira Kemelmacher, Shwetak Patel (University of Washington)  Demo: Real-Time Attention State Visualization of Online Classes Authors: Taeckyung Lee (KAIST); Hye-Young Chung (Hanyang University); Sooyoung Park, Donghwi Kim, Sung-Ju Lee (KAIST)  Demo: FLaaS - Enabling Practical Federated Learning on Mobile Environments Authors: Kleomenis Katevas (Brave Software); Diego Perino, Nicolas Kourtellis (Telefonica Research)  Video: Sunflower: Locating Underwater Robots From the Air Authors: Charles J.</description>
+    </item>
+    
+    <item>
+      <title>Full Program</title>
+      <link>/program.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/program.html</guid>
+      <description>Main Conference Program  Add to your Google Calendar Download in iCal format --  table.program-table thead td{ border-top: 1px solid; border-bottom: 2px solid; } table.program-table tbody tr:hover{ border-top: 1px dashed; } table.program-table .other-gray{ background: #F2F2F2; } table.program-table .talk{ background: #FBDBB5; } table.program-table .session{ background: #DBDB70; } table.program-table .table-keynote{ background: #CBD8E7; } table.program-table .workshops{ background: lemonchiffon; } @media only screen and (max-width: 600px) { table { min-width: 500px; font-size: smaller; } } /* temp for css cache*/ main .</description>
+    </item>
+    
+    <item>
+      <title>Harassment Policy</title>
+      <link>/harassment-policy.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/harassment-policy.html</guid>
+      <description>MobiSys Harassment Policy The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of MobiSys; these require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. The ACM Code of Ethics embraces the “values of equality, tolerance, respect for others, and the principles of equal justice”. For these reasons, MobiSys is dedicated to providing a harassment-free conference experience.</description>
+    </item>
+    
+    <item>
+      <title>Health and Safety</title>
+      <link>/health-and-safety.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/health-and-safety.html</guid>
+      <description>ACM MobiSys 2022 Health and Safety Policies The organizers of ACM MobiSys 2022 continue to closely monitor the COVID-19 pandemic.
+ACM MobiSys 2022 is planned as an in person event. We look forward to welcoming over 275 attendees in Portland, Oregon. As such, our top priority is the health and safety of all our attendees.
+We will be following all Oregon Health Authority (OHA) guidelines for hosting large gathering events. We will be strictly adhering to the standards of our venue, The Nines to host the event.</description>
+    </item>
+    
+    <item>
+      <title>IoT Day</title>
+      <link>/iot.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/iot.html</guid>
+      <description>body h2 small{ color: #777 } div.iot img{ max-height: 165px; } @media only screen and (max-width: 600px) { div.iot img{ width: auto; max-height: 150px; } }  IoT Day (Monday, June 27th) Welcome: 8:15-8:30 Keynote 1: 8:30-9:45
+Neuro-symbolic Architectures for the Internet of Things           Speaker: Prof. Mani Srivastava Department of Electrical and Computer Engineering
+University of California at Los Angeles, USA</description>
+    </item>
+    
+    <item>
+      <title>Keynotes</title>
+      <link>/keynotes.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/keynotes.html</guid>
+      <description>h2 { font-weight: 500; } h2 a { font-weight: inherit !important; }  -- Keynotes Keynote 1: SIGMOBILE Outstanding Contribution Award Talk: Andrea Goldsmith (Professor, Princeton University) Title: Imagining the next generation of wireless networks Abstract: As 5G takes to the airwaves, we now turn our imagination to the next generation of wireless technology. The promise of this technology has created an international race to innovate, with significant investment by government as well as industry.</description>
+    </item>
+    
+    <item>
+      <title>List of Workshops</title>
+      <link>/wsl.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wsl.html</guid>
+      <description>List of Workshops Please click the workshop title for more details.
+ BodySys 2022 - ACM Workshop on Body-Centric Computing Systems  Workshop Chairs:  Sofia Scataglini – University of Antwerp, Belgium Parama Pal – TCS Research   IASA 2022 - 1st ACM International Workshop on Intelligent Acoustic Systems and Applications  Workshop Chairs:  Xiaofan (Fred) Jiang, Columbia University Shahriar Nirjon, University of North Carolina, Chapel Hill Nirupam Roy, UMD College Park   EMDL 2022 - 6th International Workshop on Embedded and Mobile Deep Learning  Workshop Chairs:  Stylianos I.</description>
+    </item>
+    
+    <item>
+      <title>N2Women</title>
+      <link>/n2women.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/n2women.html</guid>
+      <description>N^2Women N^2Women is a discipline-specific community that aims at fostering connections among under-represented women in computer networking. It is our great pleasure to invite you to participate in the N^2Women events on Monday June 27th, 17:00-19:00 PDT. This year the events will be held in the form of a one-hour panel plus a mentorship reception afterward.  EVERYONE is welcome to attend the panel and reception!
+Panel Discussion Time: June 27th, 17:00-18:00 PDT Location: The Nines, Ballroom The topic is: **How to build and empower your network in academia?</description>
+    </item>
+    
+    <item>
+      <title>Organizing Committee</title>
+      <link>/org.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/org.html</guid>
+      <description>Organizing Committee                Suman Banerjee
+University of Wisconsin-Madison       -- General Co-Chairs             Tadashi Okoshi JeongGil Ko   Keio University Yonsei University              Ehsan Aryafar   Portland State University    ### Local Arrangements Chair           Wu-chang Feng   Portland State University    ### Program Committee Chairs             Aruna Balasubramanian Junehwa Song   Stony Brook University KAIST    ### Publicity Chairs               Jun Han Marco Fiore Swarun Kumar   Yonsei University IMDEA Networks Carnegie Mellon University    ### Publications Chairs             Wen Hu Yuan He   University of New South Wales Tsinghua University    ### Posters Chairs             Jiasi Chen Marco Mezzavilla   UC Riverside New York University    ### IoT Day Chair           Tarek Abdelzaher   University of Illinois    ### Workshop Chair           VP Nguyen   University of Texas Arlington    ### Registration Chair           Ashwin Ashok   Georgia State University    ### Student Travel Grants Chair               Ana Aguiar Bhuvana Krishnaswamy JeongGil Ko   University of Porto University of Wisconsin Yonsei University    ### Demo Chairs             Sanjib Sur Yasaman Ghasempour   University of South Carolina Princeton University    ### Sponsorship Chair             Karthik Dantu Mariya Zheleva   University at Buffalo University at Albany    ### Community Engagement Chair             Dilip Sundarraj Robert LiKamWa   Juniper Networks Arizona State University    ### Videos Chair           Dong Ma   Singapore Management University    ### Mentorship Chair           Carlee Joe-Wong   Carnegie Mellon University    ### Artifact Evaluation Chairs             Inseok Hwang Nirupam Roy   Pohang University of Science and Technology (POSTECH) University of Maryland College Park    ### PhD Forum Chair           David Burnett   Portland State University    ### Social Events Chairs               Ameeta Agrawal Atul Ingle Banafsheh Rekabdar   Portland State University Portland State University Portland State University    -- Web Chair           JaeYeon Park   Yonsei University      </description>
+    </item>
+    
+    <item>
+      <title>PhD Forum</title>
+      <link>/phd-forum.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/phd-forum.html</guid>
+      <description>MobiSys 2022 PhD Forum MobiSys &amp;lsquo;22 is delighted to announce the PhD Forum. The goal of the PhD Forum is to provide a place where PhD students, particularly those in the midst of defining their dissertation research, can present their ideas to a supportive and constructive group. The PhD Forum will also facilitate networking among early career researchers in the community and showcase new up-and-coming talent.
+Current PhD students are encouraged to submit a 2-page research summary describing their work in progress including a 100-word abstract.</description>
+    </item>
+    
+    <item>
+      <title>Posters</title>
+      <link>/accepted-posters.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/accepted-posters.html</guid>
+      <description>Accepted Posters  Battery-Enabled Vehicle Immobilizer Authors: Liang He (University of Colorado Denver); Kang G. Shin (The University of Michigan)  Parallelizing DNN Inference in Mobile Web Browsers on Heterogeneous Hardware Authors: Deyu Tian (Peking University); Haiyang Shen (Northwestern Polytechnical University); Yun Ma (Peking University)  Liquid Level Detection Using Wireless Signals Authors: Yili Ren, Zi Wang, Beiyu Wang (Florida State University); Sheng Tan (Trinity University); Jie Yang (Florida State University)  Ultra-low-power Acoustic Imaging Authors: Yang Bai, Nakul Garg, Nirupam Roy (University of Maryland, College Park)  When Post-Quantum Cryptography Meets the Internet of Things: An Empirical Study Authors: Chia-Chin Chung (National Taiwan Normal University); Chu-Chi Pai, Fu-Shiang Ching (Academia Sinica); Chao Wang (National Taiwan Normal University); Ling-Jyh Chen (Academia Sinica and National Taiwan Normal University)  Edge-IoT Framework for Speech and Mobile-Based Human-Robot Interaction Authors: Harish Ram Nambiappan, Enamul Karim, Md Jillur Rahman Saurav, Anushka Srivastav, Fillia Makedon (The University of Texas at Arlington)  Personalized Health Monitoring via Vital Sign Measurements Leveraging Motion Sensors on AR/VR Headsets Authors: Tianfang Zhang, Cong Shi (Rutgers University); Tianming Zhao, Zhengkun Ye (Temple University); Payton Walker, Nitesh Saxena (Texas A&amp;M University, College Station); Yan Wang (Temple University); Yingying Chen (Rutgers University)  LIVE: Life-Immersive Virtual Environment with Physical Interaction-aware Adaptive Blending Authors: Hyuna Seo, Juheon Yi, Youngki Lee (Seoul National University)  A Low-cost and Reconfigurable Metasurface for mmWave Networks Authors: Chao Feng, Yangfang Zhang, Xiaojing Wang, Xinyi Li (Northwest University)  High-Throughput Backscatter Using Commodity WiFi Authors: Longzhi Yuan, Wei Gong (University of Science and Technology of China)  Privacy-Aware Decentralized Multi-Slice Traffic Forecasting Authors: Hnin Pann Phyu, Diala Naboulsi (Ecole De Technologie Superieure); Razvan Stanica (Univ Lyon, INSA Lyon, Inria, CITI)  mmSleep: Monitoring Sleep Posture from Commodity Millimeter-Wave Devices Authors: Aakriti Adhikari, Siri Avula, Sanjib Sur (University of South Carolina)  Universal Targeted Attacks against mmWave-based Human Activity Recognition System Authors: Yucheng Xie (Indiana University Purdue University Indianapolis); Ruizhe Jiang, Xiaonan Guo (Indiana University-Purdue University Indianapolis); Yan Wang (Temple University); Jerry Cheng (New York Institute of Technology); Yingying Chen (Rutgers University)  Accurate Device Self-Tracking for Robust Millimeter-Wave Imaging on Handheld Smart Devices Authors: Jacqueline M Schellberg, Sanjib Sur (University of South Carolina)  Adaptive Voltage Scaling to Balance Energy Savings and Image Quality in Cameras Authors: Venkatesh Kodukula, Mason Manetta, Robert LiKamWa (Arizona State University)  Leveraging Speech and Ultrasonic Signals toward Articulation-Based Smartphone User Authentication Authors: Aslan Butjamlong, Ziqi Huang, Kaishun Wu (Shenzhen University)  Robust Android malware detection based on Subgraph Network and Denoising GCN network Authors: Xiaofeng Lu, Jinglun Zhao (Beijing University of Post and Telecommunications); Pietro Lio (University of Cambridge)  Best Poster Award  On Utilizing Smartphone Cameras to Detect Counterfeit Liquid Food Products  Authors: Bangjie Sun, Sean Rui Xiang Tan, Zhiwei Ren, Mun Choon Chan (National University of Singapore); Jun Han (Yonsei University)  SSCense: A Millimeter-Wave Sensing Approach for Estimating Soluble Sugar Content of Fruits Authors: Reza Tavasoli, Sanjib Sur, Srihari Nelakuditi (University of South Carolina)  A Millimeter-Wave Wireless Sensing Approach for At-Home Exercise Recognition Authors: Edward M Sitar IV, Moh Sabbir Saadat, Sanjib Sur (University of South Carolina)  Head Dynamics Enabled Riding Maneuver Prediction Authors: Zengyi Han, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki (The University of Tokyo)  Your Tapstroke Tells Who You Are: Authenticating Smartphone Users with Tapstroke-driven Vibrations Authors: Junhyub Lee, Insu Kim, Jeongwoo Heo, Hyosu Kim (School of Computer Science and Engineering, Chung-Ang University)  Protecting Software Design in Cloud using AWS IoT Authors: Nitesh Kumar Jangid (Department of IT &amp; Communication, Government of Rajasthan, Jaipur, Rajasthan, India); Mukesh Kumar Gupta (Swami Keshvanand Institute of Technology, Management &amp; Gramothan, Jaipur, Rajasthan, India)  Adaptive Compression of 3D Models for Mobile Web Apps Authors: Qi Yang (University of New South Wales); Xinran Dong, Xiuqi Cao, Yun Ma (Peking University)  Best Poster Runner-up Award  Vronicle: Verifiable Provenance for Videos from Mobile Devices  Authors: Yuxin (Myles) Liu, Yoshimichi Nakatsuka, Ardalan Amiri Sani (UC Irvine); Sharad Agarwal (Microsoft); Gene Tsudik (UC Irvine)  Realtime Intelligent Control for NextG Cellular Radio Access Networks Authors: Harish Kumar Dureppagari, Ujwal Dinesha (Texas A&amp;M University); Raini Wu (University of California San Diego); Santosh Ganji, Woo-Hyun Ko, Srinivas Shakkottai (Texas A&amp;M University); Dinesh Bharadia (University of California San Diego)  Quantifying Fairness of Federated Learning LPPM Models Authors: Amina Ben Salem (INSA Lyon); Besma Khalfoun (INSA Lyon, LIRIS, France); Sonia Ben Mokhtar (LIRIS-CNRS, France); Afra Mashhadi (University of Washington)  EarChew: Towards Identifying Chewing Side Preference using Earables Authors: Sungtae Kim, Donghun Lee, Jun Han (Yonsei University)  Speech Privacy Attack via Vibrations from Room Objects Leveraging a Phased-MIMO Radar Authors: Cong Shi, Tianfang Zhang, Zhaoyi Xu, Shuping Li, Yichao Yuan, Athina Petropulu, Chung Tse Michael Wu, Yingying Chen (Rutgers University)  Adaptable Mobile Vision Systems through Multi-Exit Neural Networks Authors: Alexandros Kouris (Samsung AI and Imperial College London); Stylianos I.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>/registration.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/registration.html</guid>
+      <description>Registration ACM MobiSys 2022 will be happening from Monday, June 27 to Friday, July 1, 2022.
+Registration, both online and on site, is now closed for MobiSys 2022.
+Due to hard capacity limits on our banquet cruise, we are unable to accommodate more attendees.
+ Schedule IoT Day is June 27th. The poster and demo sessions are on June 28th. The main conference is June 28th-30th. The workshops are on July 1st.</description>
+    </item>
+    
+    <item>
+      <title>Sightseeing</title>
+      <link>/sightseeing.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sightseeing.html</guid>
+      <description>body img{ width: auto; max-width: 1000px; display:block; margin: auto; } @media only screen and (max-width: 600px) { body img{ width: auto; max-width: 100%; display:block; margin: auto; } }  Things to do in Portland We have compiled this fun list of things to do to make your stay in Portland all the more exciting!
+ The 20 Best Things to Do in Portland, Oregon  Day Trips from Portland   Please visit the social activities page for more networking opportunities!</description>
+    </item>
+    
+    <item>
+      <title>Social Activities</title>
+      <link>/social-activities.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/social-activities.html</guid>
+      <description>body img{ width: auto; max-width: 1000px; display:block; margin: auto; } @media only screen and (max-width: 600px) { body img{ width: auto; max-width: 100%; display:block; margin: auto; } }  Social Activities Welcome to MobiSys 2022 in Portland, OR! We’re organizing the following social activities to encourage networking in a more relaxed and informal setting.
+#1 Riverfront Morning Walk 7:15am-8:15am Tuesday June 28, 2022
+In this hour-long morning walk we’ll visit the Waterfront Trail along the Willamette riverfront.</description>
+    </item>
+    
+    <item>
+      <title>Sponsorship</title>
+      <link>/sponsorship.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsorship.html</guid>
+      <description>Sponsorship The 22nd ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2024) is the premier conference for the design, implementation, usage, and evaluation of mobile computing and wireless systems, applications, and services. MobiSys 2024 is sponsored by SIGMOBILE.  By becoming a ACM MobiSys 2024 supporter, your organization can reach a highly qualified technical audience of academics, industrial researchers, engineers, and students. You will be able to increase your visibility and product awareness among the people who are the most knowledgeable and passionate about your products.</description>
+    </item>
+    
+    <item>
+      <title>Student Travel Grant</title>
+      <link>/student-travel-grant.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/student-travel-grant.html</guid>
+      <description>Student Travel Grant ACM MobiSys 2022 is pleased to provide travel grants to support students attending the main conference and the co-located events. Grants are available only for full-time students attending colleges and universities in and outside the US. Priority will be given to students who will benefit from attending the main conference and its co-located events, but are unlikely to attend due to unavailability of travel funding. Please note that the travel grant is on a reimbursement basis.</description>
+    </item>
+    
+    <item>
+      <title>Submission Instructions</title>
+      <link>/sub.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sub.html</guid>
+      <description>Submission Instructions  Submission Website Link All submissions must follow strictly the format and size constraints indicated below. Your goal as an author is to produce a clearly readable submission within these constraints. Please refrain from exceeding these limits, because longer submissions and/or papers with modified margins or fonts will not be reviewed.
+Before the submission, you are expected to make sure that your paper complies with the format requirements (number of pages, font size and spacing, margins).</description>
+    </item>
+    
+    <item>
+      <title>Technical Program Committee</title>
+      <link>/tpc.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tpc.html</guid>
+      <description>Technical Program Committee  Aruna Balasubramanian, Stony Brook University Co-Chair  Junehwa Song, KAIST Co-Chair  Aaron Schulman, UC San Diego Alastair Beresford, Cambridge University Alec Wolman, Microsoft Ardalan Amiri Sani, UC Irvine Ashutosh Dhekne, Georgia Institute of Technology Ben Greenstein, Google Chenren Xu, Peking University Chulhong Min, Nokia Bell Labs Deepak Vasisht, University of Illinois at Urbana-Champaign &amp;amp; Microsoft Diego Perino, Telefonica Research Eric Rozner, Facebook &amp;amp; University of Colorado Boulder Fadel Adib, Massachusetts Institute of Technology Heather Zheng, University of Chicago Ilias Leontiadis, Meta Inseok Hwang, POSTECH Jeremy Andrus, Apple Jeremy Gummeson, University of Massachusetts Amherst Kamin Whitehouse, Amazon Kasthuri Jayarajah, University of Maryland, Baltimore County Kate Lin, National Chiao Tung University Kyunghan Lee, Seoul National University Lin Zhong, Yale University Mahadev Satyanarayanan, Carnegie Mellon University Mary Baker, HP Inc Matt Welsh, OctoML Mi Zhang, Michigan State University Nirupam Roy, University of Maryland, College Park Prabal Dutta, UC Berkeley Qin Lv, University of Colorado Boulder Rajalakshmi Nandakumar, Cornell Tech Rajesh Balan, Singapore Management University &amp;amp; Google Rijurekha Sen, IIT Delhi Robin Kravets, University of Illinois at Urbana-Champaign Shubham Jain, Stony Brook University Steven Y.</description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>/venue.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/venue.html</guid>
+      <description>Venue Toranomon Hills, Minato City .map-responsive{ overflow:hidden; padding-bottom:56.25%; position:relative; height:0; } .map-responsive iframe{ left:0; top:0; height:100%; width:100%; position:absolute; } /* Source: ostraining   --#   --  img[alt=&#34;Toranomo&#34;]{ max-width: 900px }   img[alt=&#34;Toranomo2&#34;]{ max-width: 900px }   Hotel Registration - BOOK DIRECTLY Firm Deadline: June 17, 2022  ###  Hotel Information -- In Toranomon Hills area, following &amp;ldquo;Toranomon Hills Mori Tower&amp;rdquo; (completed in 2014), &amp;ldquo;Toranomon Hills Business Tower&amp;rdquo; (completed in 2020), &amp;ldquo;Toranomon Hills Residential Tower&amp;rdquo; (completed in January 2022), Tokyo Metro Hibiya Line &amp;quot; &amp;ldquo;Toranomon Hills Station Tower&amp;rdquo;, which will be developed together with Toranomon Hills Station, will open in the fall of 2023.</description>
+    </item>
+    
+    <item>
+      <title>Video Instructions</title>
+      <link>/videos.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/videos.html</guid>
+      <description>Video Instructions We request the authors of each accepted paper to record a teaser video no longer than 1.5 minutes. Teaser videos will be made publicly available on the ACM SIGMOBILE YouTube channel as soon as they are received, with the idea of garnering attention and interest a few weeks in advance of the main conference. We encourage you to come up with unconventional formats/new ideas/cool modalities for the teaser videos.</description>
+    </item>
+    
+    <item>
+      <title>Visa Information</title>
+      <link>/visa.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/visa.html</guid>
+      <description>Visa Information The U.S. Department of State website  has detailed information about obtaining a visa for those traveling to the United States with links to websites for U.S. embassies and consulates worldwide. The embassy and consulate websites have very helpful information about procedures, timelines, communities served, required documentation, and fees. International registrants should be particularly aware and careful about visa requirements, and should plan travel well in advance.
+All visa inquiries must be handled by ACM Headquarters .</description>
+    </item>
+    
+  </channel>
+</rss>
